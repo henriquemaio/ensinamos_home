@@ -2830,3 +2830,7 @@ form button {
         margin: 1.75rem auto;
     }
 }
+
+.sub-nav-toggler {
+    display: none !important;
+}
