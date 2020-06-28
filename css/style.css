@@ -2834,3 +2834,9 @@ form button {
 .sub-nav-toggler {
     display: none !important;
 }
+
+@media (max-width: 1199px) {
+    .header-navigation .main-navigation {
+        background: #4e1791 !important;
+    }
+}
