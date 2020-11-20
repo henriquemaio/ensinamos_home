@@ -740,11 +740,12 @@ hr.style-one {
 }
 
 .banner-style-one.home-page-two .content-block h3 {
-    color: #fff;
+    color: rgb(224, 217, 217);
 }
 
 .banner-style-one.home-page-two .content-block p {
-    color: #D6C9E4;
+    color: rgb(224, 217, 217);
+    font-size: 23px;
 }
 
 .banner-style-one.home-page-two .content-block .banner-btn {
@@ -2320,7 +2321,7 @@ hr.style-one {
     line-height: 34px;
     margin: 0;
     margin-top: 17px;
-    margin-bottom: 35px;
+    margin-bottom: 15px;
     transition: all .4s ease;
     position: relative;
     z-index: 10;
